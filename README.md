@@ -1,4 +1,4 @@
-# 🎙️ Podcast Feed Generator (Practice Project)
+# Podcast Feed Generator (Practice Project)
 
 This is a **GitHub Action** that generates a podcast RSS feed from a simple **YAML file**.  
 YAML is easier to read and write than XML, and this Action will convert your YAML into a valid podcast feed automatically.
