@@ -53,7 +53,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: kyledelc/podcast-gen-testing@main
+        uses: kyledelc/podcast-generator@main
         with:
           name: ${{ github.actor }}
           email: ${{ github.actor }}@users.noreply.github.com
