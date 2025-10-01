@@ -1,4 +1,4 @@
-name: "Podcast Generator (Practice Project)"
+name: "Podcast RSS Generator"
 author: "kyledelc"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
